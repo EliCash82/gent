@@ -6,6 +6,10 @@ from flask import * # do not use '*'; actually input the dependencies
 from flask.ext.sqlalchemy import SQLAlchemy
 import logging
 from logging import Formatter, FileHandler
+<<<<<<< HEAD
+=======
+import os
+>>>>>>> 229c9f0fc6282a385fdc6c5837853264cc3909a8
 
 #------------------------------------------------------------------------------#
 # App Config
@@ -76,6 +80,7 @@ if not app.debug:
 #------------------------------------------------------------------------------#
 
 # default  port
+<<<<<<< HEAD
 if __name__ == '__main__':
     app.run()
 
@@ -85,3 +90,14 @@ if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port)
 '''
+=======
+"""if __name__ == '__main__':
+    app.run()"""
+
+# or specify port
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
+
+>>>>>>> 229c9f0fc6282a385fdc6c5837853264cc3909a8

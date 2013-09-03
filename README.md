@@ -1,7 +1,7 @@
 
 Gentle Introduction Resource
 ------------------------------------------------------------------------------
-The Gentle Introductions Resource: A Final Project for CUNY Graduate Center ITP (Interactive Technology and Pedagogy) Program  
+<h4>The Gentle Introductions Resource: A Final Project for CUNY Graduate Center ITP (Interactive Technology and Pedagogy) Program</h4>  
 
 A website/web app for (and by) scholars looking for digital/computational expertise.  
 

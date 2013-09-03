@@ -5,7 +5,7 @@ The Gentle Introductions Resource: A Final Project for CUNY Graduate Center ITP 
 
 A website/web app for (and by) scholars looking for digital/computational expertise.  
 
-Project by Anderson Evans / Masters Candidate CUNY Graduate Center  
+Project by <h3>Anderson Evans</h3> / Masters Candidate CUNY Graduate Center  
 
 Project Advisor: Professor Steve Brier  
 
